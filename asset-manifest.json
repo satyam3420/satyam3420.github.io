@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/fintech.github.io/static/css/main.d2bc6c68.css",
-    "main.js": "/fintech.github.io/static/js/main.9fdae01b.js",
-    "static/media/Vector 1.png": "/fintech.github.io/static/media/Vector 1.d63125b01c07ea9c73a1.png",
-    "index.html": "/fintech.github.io/index.html",
-    "main.d2bc6c68.css.map": "/fintech.github.io/static/css/main.d2bc6c68.css.map",
-    "main.9fdae01b.js.map": "/fintech.github.io/static/js/main.9fdae01b.js.map"
+    "main.css": "/static/css/main.57bc6715.css",
+    "main.js": "/static/js/main.9fdae01b.js",
+    "static/media/Vector 1.png": "/static/media/Vector 1.d63125b01c07ea9c73a1.png",
+    "index.html": "/index.html",
+    "main.57bc6715.css.map": "/static/css/main.57bc6715.css.map",
+    "main.9fdae01b.js.map": "/static/js/main.9fdae01b.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2bc6c68.css",
+    "static/css/main.57bc6715.css",
     "static/js/main.9fdae01b.js"
   ]
 }
